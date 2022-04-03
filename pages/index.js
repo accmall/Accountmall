@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title배그계정 옵치계정 스팀게임계정 전문 어카운트몰!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
