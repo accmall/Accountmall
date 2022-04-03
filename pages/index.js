@@ -11,18 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
-      </main>
-
-      <Footer />
-    </div>
-  )
-}
-
-<!DOCTYPE html>
+        <Header title="<!DOCTYPE html>
 <html lang="en-US" dir="ltr">
 	<head>
 	<meta name="google-site-verification" content="5215fc8c-4137-404f-a92b-9a01a31b578e" />
@@ -519,3 +508,13 @@ MovePage();
                               </center>
 </section>
 <meta charset="utf-8">
+!" />
+        <p className="description">
+          </code>
+        </p>
+      </main>
+
+      <Footer />
+    </div>
+  )
+}
