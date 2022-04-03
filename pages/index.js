@@ -25,12 +25,12 @@ export default function Home() {
 <!DOCTYPE html>
 <html lang="en-US" dir="ltr">
 	<head>
-	<meta name="google-site-verification" content="LtbLywinRw6lX5dPrXNtQEfIBtS-5p0pWRl9iKNSNmc" />
+	<meta name="google-site-verification" content="5215fc8c-4137-404f-a92b-9a01a31b578e" />
 	 <link rel="canonical" href="https://accountmall.netlify.app/">
 		<title>배그계정 옵치계정 스팀게임계정 전문 어카운트몰</title>
 <body oncontextmenu='return false' ondragstart='return false' onselectstart='return false' onkeydown="return false">
 
-		<meta property="og:image" content="https://media.discordapp.net/attachments/853073527183376424/864032564054720562/2.png">
+		<meta property="og:image" content="https://cdn.discordapp.com/attachments/658568545369849858/960122702067294208/PicsArt_09-28-08.35.14.jpg">
 		<meta name="twitter:card" content="summary_large_image" />
 
 
